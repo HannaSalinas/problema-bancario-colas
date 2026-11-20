@@ -1,0 +1,6 @@
+tipo,minimo,replicas,media,maximo
+Rápido,18,494,38.52,60
+Normal,37,962,68.2219,95
+Lento,23,129,41.7322,60
+Muy lento,35,402,52.0929,80
+Total,143,638,200.567,267
