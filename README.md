@@ -3,7 +3,7 @@
 Actividad didáctica 2-M3 del curso Simulación (PREICA2602B020045), Institución Universitaria Digital de Antioquia.
 Autora: Hanna Jineth Contreras Salinas. Docente: Julián Andrés Loaiza López.
 
-Video de presentación: [PENDIENTE: enlace del video]
+Video de presentación: [ver en Google Drive](https://drive.google.com/file/d/1796Po7qIxjJvQvvqSymQhFK30A4_8PQX/view?usp=sharing)
 
 ## El problema
 
