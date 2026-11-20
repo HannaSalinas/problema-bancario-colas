@@ -1,0 +1,9 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.pylint.main]
+py-version = "3.12"
+
+[tool.pylint.design]
+# Los resultados se guardan en dataclasses con varios arreglos.
+max-attributes = 10
