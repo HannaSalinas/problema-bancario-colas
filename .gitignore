@@ -1,0 +1,24 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos generados por Python y las herramientas de prueba
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pylint.d/
+.coverage
+htmlcov/
+
+# Entregables y scripts que no van en el repositorio
+entrega/
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+~$*
+.~lock.*#
+
